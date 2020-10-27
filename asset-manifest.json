@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ezekielnizamani/covid-19-tracker/static/css/main.6bd960be.chunk.css",
-    "main.js": "/ezekielnizamani/covid-19-tracker/static/js/main.b2655176.chunk.js",
-    "main.js.map": "/ezekielnizamani/covid-19-tracker/static/js/main.b2655176.chunk.js.map",
+    "main.js": "/ezekielnizamani/covid-19-tracker/static/js/main.69943515.chunk.js",
+    "main.js.map": "/ezekielnizamani/covid-19-tracker/static/js/main.69943515.chunk.js.map",
     "runtime-main.js": "/ezekielnizamani/covid-19-tracker/static/js/runtime-main.e8cc1ff0.js",
     "runtime-main.js.map": "/ezekielnizamani/covid-19-tracker/static/js/runtime-main.e8cc1ff0.js.map",
     "static/css/2.a4567992.chunk.css": "/ezekielnizamani/covid-19-tracker/static/css/2.a4567992.chunk.css",
     "static/js/2.301604d8.chunk.js": "/ezekielnizamani/covid-19-tracker/static/js/2.301604d8.chunk.js",
     "static/js/2.301604d8.chunk.js.map": "/ezekielnizamani/covid-19-tracker/static/js/2.301604d8.chunk.js.map",
     "index.html": "/ezekielnizamani/covid-19-tracker/index.html",
-    "precache-manifest.04395502ef61f7bbfcd5b84994edcfae.js": "/ezekielnizamani/covid-19-tracker/precache-manifest.04395502ef61f7bbfcd5b84994edcfae.js",
+    "precache-manifest.0f4d9734f266c168cc9539ccdd1ebd42.js": "/ezekielnizamani/covid-19-tracker/precache-manifest.0f4d9734f266c168cc9539ccdd1ebd42.js",
     "service-worker.js": "/ezekielnizamani/covid-19-tracker/service-worker.js",
     "static/css/2.a4567992.chunk.css.map": "/ezekielnizamani/covid-19-tracker/static/css/2.a4567992.chunk.css.map",
     "static/css/main.6bd960be.chunk.css.map": "/ezekielnizamani/covid-19-tracker/static/css/main.6bd960be.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.a4567992.chunk.css",
     "static/js/2.301604d8.chunk.js",
     "static/css/main.6bd960be.chunk.css",
-    "static/js/main.b2655176.chunk.js"
+    "static/js/main.69943515.chunk.js"
   ]
 }

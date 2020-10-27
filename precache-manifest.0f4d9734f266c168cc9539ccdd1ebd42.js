@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a5d6ff62945fa06fb869a29b1854b9a",
+    "revision": "09b161c2653b08cb1e22ed793b1a6dab",
     "url": "/ezekielnizamani/covid-19-tracker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ezekielnizamani/covid-19-tracker/static/css/2.a4567992.chunk.css"
   },
   {
-    "revision": "7d278da08f7b46ba004e",
+    "revision": "441f2ce0a3b2db28230f",
     "url": "/ezekielnizamani/covid-19-tracker/static/css/main.6bd960be.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ezekielnizamani/covid-19-tracker/static/js/2.301604d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d278da08f7b46ba004e",
-    "url": "/ezekielnizamani/covid-19-tracker/static/js/main.b2655176.chunk.js"
+    "revision": "441f2ce0a3b2db28230f",
+    "url": "/ezekielnizamani/covid-19-tracker/static/js/main.69943515.chunk.js"
   },
   {
     "revision": "0f2ef5270ccad08f6a02",
