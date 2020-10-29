@@ -10,7 +10,7 @@ import {
 import InfoBox from "./components/infoBox/Info-Box";
 import Map from "./components/map/Map";
 import Table from "./components/table/Table";
-import { sortData, showDataOnMap, prettyPrintStat } from "./util";
+import { sortData, prettyPrintStat } from "./util";
 import LineGraph from "./components/lineGraph/LineGraph";
 import "leaflet/dist/leaflet.css";
 

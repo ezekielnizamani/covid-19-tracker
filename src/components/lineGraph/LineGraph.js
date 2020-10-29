@@ -50,25 +50,25 @@ const options = {
 
 function LineGraph({ casesType = "cases", className }) {
   const [data, setData] = useState({});
-  const bulidChartData = (data) => {
-    const chartData = [];
-    let lastDataPoint = 0;
-    for (let date in data.cases) {
-      if (lastDataPoint) {
-        const newDataPoint = {
-          x: date,
-          y: data[casesType][date] - lastDataPoint,
-        };
-        chartData.push(newDataPoint);
-      }
-      lastDataPoint = data[casesType][date];
-      // console.log("chart data >>>", data["cases"][date]);
-    }
-
-    return chartData;
-  };
-
   useEffect(() => {
+    const bulidChartData = (data) => {
+      const chartData = [];
+      let lastDataPoint = 0;
+      for (let date in data.cases) {
+        if (lastDataPoint) {
+          const newDataPoint = {
+            x: date,
+            y: data[casesType][date] - lastDataPoint,
+          };
+          chartData.push(newDataPoint);
+        }
+        lastDataPoint = data[casesType][date];
+        // console.log("chart data >>>", data["cases"][date]);
+      }
+
+      return chartData;
+    };
+
     fetch("https://disease.sh/v3/covid-19/historical/all?lastdays=120")
       .then((response) => response.json())
       .then((data) => {
